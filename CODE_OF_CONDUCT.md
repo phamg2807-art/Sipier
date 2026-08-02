@@ -1,268 +1,128 @@
-# Code of Conduct
+# Contributor Covenant Code of Conduct
 
-## Sipier Automation Suite
+## Our Pledge
 
-The Sipier project is committed to providing a welcoming, respectful, and constructive environment for everyone who participates in the project.
+We as members, contributors, and leaders pledge to make participation in our
+community a harassment-free experience for everyone, regardless of age, body
+size, visible or invisible disability, ethnicity, sex characteristics, gender
+identity and expression, level of experience, education, socio-economic status,
+nationality, personal appearance, race, religion, or sexual identity
+and orientation.
 
-This Code of Conduct applies to all contributors, maintainers, testers, issue reporters, Pull Request authors, and community members participating in Sipier-related spaces.
+We pledge to act and interact in ways that contribute to an open, welcoming,
+diverse, inclusive, and healthy community.
 
-This includes, but is not limited to:
+## Our Standards
 
-* GitHub Issues.
-* Pull Requests.
-* Code reviews.
-* Discussions.
-* Project-related communication.
-* Community spaces operated by the Sipier project.
+Examples of behavior that contributes to a positive environment for our
+community include:
 
----
+* Demonstrating empathy and kindness toward other people
+* Being respectful of differing opinions, viewpoints, and experiences
+* Giving and gracefully accepting constructive feedback
+* Accepting responsibility and apologizing to those affected by our mistakes,
+  and learning from the experience
+* Focusing on what is best not just for us as individuals, but for the
+  overall community
 
-# Our Standards
+Examples of unacceptable behavior include:
 
-We expect everyone participating in the Sipier project to:
+* The use of sexualized language or imagery, and sexual attention or
+  advances of any kind
+* Trolling, insulting or derogatory comments, and personal or political attacks
+* Public or private harassment
+* Publishing others' private information, such as a physical or email
+  address, without their explicit permission
+* Other conduct which could reasonably be considered inappropriate in a
+  professional setting
 
-* Be respectful toward others.
-* Communicate clearly and constructively.
-* Focus discussions on the project and its goals.
-* Welcome people with different experience levels.
-* Accept constructive criticism.
-* Give constructive feedback.
-* Respect different viewpoints.
-* Assume good intentions where possible.
-* Take responsibility for mistakes.
-* Work collaboratively toward practical solutions.
+## Enforcement Responsibilities
 
-Technical disagreements are normal in software development.
+Community leaders are responsible for clarifying and enforcing our standards of
+acceptable behavior and will take appropriate and fair corrective action in
+response to any behavior that they deem inappropriate, threatening, offensive,
+or harmful.
 
-Disagreements should be handled professionally and focused on technical reasoning rather than personal criticism.
+Community leaders have the right and responsibility to remove, edit, or reject
+comments, commits, code, wiki edits, issues, and other contributions that are
+not aligned to this Code of Conduct, and will communicate reasons for moderation
+decisions when appropriate.
 
----
+## Scope
 
-# Expected Behavior
+This Code of Conduct applies within all community spaces, and also applies when
+an individual is officially representing the community in public spaces.
+Examples of representing our community include using an official e-mail address,
+posting via an official social media account, or acting as an appointed
+representative at an online or offline event.
 
-Examples of positive behavior include:
+## Enforcement
 
-* Helping new contributors understand the project.
-* Providing useful and constructive feedback.
-* Reporting bugs responsibly.
-* Explaining technical disagreements clearly.
-* Respecting different approaches to solving problems.
-* Giving credit to contributors.
-* Acknowledging mistakes and correcting them.
-* Maintaining a professional tone.
-* Being patient when helping others.
-* Respecting project maintainers and contributors.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported to the community leaders responsible for enforcement at
+.
+All complaints will be reviewed and investigated promptly and fairly.
 
----
+All community leaders are obligated to respect the privacy and security of the
+reporter of any incident.
 
-# Unacceptable Behavior
+## Enforcement Guidelines
 
-The following behavior is not acceptable within the Sipier community:
+Community leaders will follow these Community Impact Guidelines in determining
+the consequences for any action they deem in violation of this Code of Conduct:
 
-* Harassment.
-* Discrimination.
-* Personal attacks.
-* Threats.
-* Intimidation.
-* Deliberate bullying.
-* Hate speech.
-* Unwanted sexual attention.
-* Publishing private information without permission.
-* Doxxing.
-* Impersonation.
-* Deliberate disruption of project discussions.
-* Repeatedly derailing discussions.
-* Malicious behavior toward contributors.
-* Abusive or threatening communication.
+### 1. Correction
 
-This list is not exhaustive.
+**Community Impact**: Use of inappropriate language or other behavior deemed
+unprofessional or unwelcome in the community.
 
-Any behavior that creates an unsafe, hostile, or consistently disruptive environment may be addressed by project maintainers.
+**Consequence**: A private, written warning from community leaders, providing
+clarity around the nature of the violation and an explanation of why the
+behavior was inappropriate. A public apology may be requested.
 
----
+### 2. Warning
 
-# Technical Disagreements
+**Community Impact**: A violation through a single incident or series
+of actions.
 
-Sipier is a software project, and contributors may disagree about:
+**Consequence**: A warning with consequences for continued behavior. No
+interaction with the people involved, including unsolicited interaction with
+those enforcing the Code of Conduct, for a specified period of time. This
+includes avoiding interactions in community spaces as well as external channels
+like social media. Violating these terms may lead to a temporary or
+permanent ban.
 
-* Architecture.
-* Programming languages.
-* Frameworks.
-* User interface design.
-* Feature priorities.
-* Implementation strategies.
-* Performance decisions.
-* Project direction.
+### 3. Temporary Ban
 
-These disagreements are acceptable.
+**Community Impact**: A serious violation of community standards, including
+sustained inappropriate behavior.
 
-However, discussions should remain focused on the technical subject.
+**Consequence**: A temporary ban from any sort of interaction or public
+communication with the community for a specified period of time. No public or
+private interaction with the people involved, including unsolicited interaction
+with those enforcing the Code of Conduct, is allowed during this period.
+Violating these terms may lead to a permanent ban.
 
-Good:
+### 4. Permanent Ban
 
-> I think this implementation may cause performance problems because the function runs on every UI update. Could we consider moving it to a background process?
+**Community Impact**: Demonstrating a pattern of violation of community
+standards, including sustained inappropriate behavior,  harassment of an
+individual, or aggression toward or disparagement of classes of individuals.
 
-Not constructive:
+**Consequence**: A permanent ban from any sort of public interaction within
+the community.
 
-> This implementation is terrible. You clearly don't know what you're doing.
+## Attribution
 
-Criticize the implementation, not the person.
+This Code of Conduct is adapted from the [Contributor Covenant][homepage],
+version 2.0, available at
+https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 
----
+Community Impact Guidelines were inspired by [Mozilla's code of conduct
+enforcement ladder](https://github.com/mozilla/diversity).
 
-# Constructive Feedback
+[homepage]: https://www.contributor-covenant.org
 
-When providing feedback, try to:
-
-1. Explain the problem.
-2. Explain why it matters.
-3. Provide evidence where possible.
-4. Suggest an alternative when appropriate.
-
-Contributors are encouraged to ask questions when they do not understand a decision rather than making assumptions about another contributor's intentions.
-
----
-
-# Project Maintainers
-
-Project maintainers are responsible for:
-
-* Reviewing contributions.
-* Managing Pull Requests.
-* Reviewing reported issues.
-* Maintaining project quality.
-* Making project decisions.
-* Enforcing this Code of Conduct when necessary.
-
-Maintainers should make reasonable efforts to:
-
-* Treat contributors fairly.
-* Explain important decisions when appropriate.
-* Review contributions objectively.
-* Avoid unnecessary personal criticism.
-* Maintain a professional environment.
-
-Maintainers are also expected to follow this Code of Conduct.
-
----
-
-# Reporting Problems
-
-If you experience or witness behavior that violates this Code of Conduct, please report it to the Sipier project maintainers.
-
-When reporting an issue, provide:
-
-* A description of what happened.
-* The location or platform where it occurred.
-* Relevant dates or timestamps.
-* The people involved, if known.
-* Any relevant evidence.
-
-Please avoid publicly sharing sensitive personal information.
-
-For security vulnerabilities, do not use the Code of Conduct reporting process.
-
-Instead, follow the instructions in:
-
-`SECURITY.md`
-
----
-
-# Privacy
-
-Reports will be handled as privately as reasonably possible.
-
-Project maintainers will only share information when necessary to investigate or resolve the issue.
-
-Do not include unnecessary personal information in reports.
-
----
-
-# Enforcement
-
-Project maintainers may take appropriate action when this Code of Conduct is violated.
-
-Possible actions include:
-
-* Informal warning.
-* Request to stop inappropriate behavior.
-* Removal of inappropriate content.
-* Temporary restriction from project discussions.
-* Temporary restriction from contributing.
-* Removal of Pull Requests or comments.
-* Permanent restriction from participating in the project.
-
-The response will depend on:
-
-* Severity.
-* Frequency.
-* Context.
-* Impact.
-* Previous behavior.
-
-Maintainers may take immediate action when necessary to protect the community.
-
----
-
-# False or Malicious Reports
-
-Reports should be made in good faith.
-
-Knowingly submitting false allegations, fabricating evidence, or deliberately abusing the reporting process may itself be considered a violation of this Code of Conduct.
-
-If you are uncertain whether something violates the Code of Conduct, you are still encouraged to ask the project maintainers for guidance.
-
----
-
-# Scope
-
-This Code of Conduct applies to project spaces officially operated by the Sipier project.
-
-It may also apply to behavior outside official project spaces when that behavior directly affects the safety or participation of the Sipier community.
-
----
-
-# Contributions
-
-By participating in the Sipier project, contributors agree to make reasonable efforts to maintain a respectful and constructive environment.
-
-This Code of Conduct is intended to support collaboration rather than restrict legitimate technical discussion.
-
-Healthy disagreement, criticism, and debate are welcome when conducted respectfully.
-
----
-
-# Updates
-
-This Code of Conduct may be updated as the Sipier project grows.
-
-Changes may be made to improve:
-
-* Clarity.
-* Community safety.
-* Contributor experience.
-* Project governance.
-
-The latest version will always be available in the official Sipier repository.
-
----
-
-# Final Statement
-
-Sipier is built by people with different backgrounds, experience levels, and perspectives.
-
-A strong open-source project depends on people being able to collaborate effectively.
-
-We encourage everyone to:
-
-* Be respectful.
-* Be constructive.
-* Help others learn.
-* Share knowledge.
-* Give useful feedback.
-* Focus on solving problems.
-* Build something better together.
-
-Thank you for helping make Sipier a positive and productive project for everyone.
-
-**Sipier — Automate the repetitive. Control the workflow.**
+For answers to common questions about this code of conduct, see the FAQ at
+https://www.contributor-covenant.org/faq. Translations are available at
+https://www.contributor-covenant.org/translations.
