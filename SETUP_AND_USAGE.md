@@ -13,10 +13,17 @@ If you downloaded Sipier from the official release:
 1. Download the latest Sipier installer.
 2. Run the installer.
 3. Follow the installation instructions.
+
 <img width="493" height="383" alt="{CC0DF485-FA41-4D8C-970F-BCC646C79E9C}" src="https://github.com/user-attachments/assets/16268b83-4172-4cee-a168-2c698e8c2792" />
+
+
 4. Launch Sipier from the Start Menu or desktop shortcut.
+
 <img width="249" height="56" alt="{3098C325-D504-435A-879D-C0FBED3B8275}" src="https://github.com/user-attachments/assets/0dfd32f4-7e94-478d-ab4d-937955c78f7b" />
+
+
 5. Start creating and running your automation macros.
+
 <img width="1090" height="745" alt="{6FC09111-2A0B-48C6-B7EE-ED98972FD1BB}" src="https://github.com/user-attachments/assets/b8d80981-84fb-46d1-bd22-e1bc701b072a" />
 
 The packaged version of Sipier includes the required application runtime and dependencies.
