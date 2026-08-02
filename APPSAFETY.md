@@ -6,7 +6,7 @@
 
 # Sipier Security, Privacy, Safety and Trust Statement
 
-**Last Updated:** August 2026
+**Last Updated:** August 3 2026
 
 Sipier Automation Suite is a Windows desktop automation application currently in **Beta Testing**.
 
