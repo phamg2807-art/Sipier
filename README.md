@@ -8,13 +8,14 @@ Sipier is a desktop automation application built with Python and PyQt6. It allow
 Whether you need to automate repetitive actions, create custom macros, or streamline everyday workflows, Sipier provides powerful automation tools without requiring users to write scripts or understand programming.
 
 
-<img width="1103" height="747" alt="{ADFD9095-A7C1-4CDE-B713-3F15A6F9B621}" src="https://github.com/user-attachments/assets/351abac7-f302-4b25-8af1-564df0e14420" />
+<img width="1110" height="708" alt="{1E6441C5-641E-43B2-8629-EDB4F515CA2A}" src="https://github.com/user-attachments/assets/47b181a6-b26f-4a63-bec4-7d5fdc020882" />
 
 
-<img width="1092" height="742" alt="{46189E9C-D581-40F1-979A-DCF69D7F9D39}" src="https://github.com/user-attachments/assets/29b84729-b4bc-45bf-b239-02936e3e5e61" />
+<img width="1115" height="752" alt="{E71A1A17-F311-4CEE-8CA0-DA2D3C314C59}" src="https://github.com/user-attachments/assets/a809adc9-b1f0-4894-853d-a125a3513ab8" />
 
 
-<img width="1092" height="742" alt="{857DFDAE-C0BF-4442-AED4-13FA88473311}" src="https://github.com/user-attachments/assets/835641ce-9b1f-4efc-a158-cd85e1774e58" />
+<img width="1103" height="747" alt="{EEAC0F6C-8A39-47D4-8A06-AC801C009889}" src="https://github.com/user-attachments/assets/49279c16-9728-4cf9-9489-3dba6ea2a71d" />
+
 
 
 
