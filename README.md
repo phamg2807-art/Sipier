@@ -24,6 +24,7 @@ Whether you need to automate repetitive actions, create custom macros, or stream
 
 * 🚀 [Click here to read the Setup and Usage Guide](./SETUP_AND_USAGE.md)
 
+* [Click here to read the Application Safety and Windows Defender detection](./APPSAFETY.md)
 
 ## Features
 
