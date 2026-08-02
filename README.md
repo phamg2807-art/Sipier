@@ -8,6 +8,10 @@ Sipier is a desktop automation application built with Python and PyQt6. It allow
 Whether you need to automate repetitive actions, create custom macros, or streamline everyday workflows, Sipier provides powerful automation tools without requiring users to write scripts or understand programming.
 
 ---
+## 📖 Documentation & Guides
+
+* 🚀 [Click here to read the Setup and Usage Guide](./SETUP_AND_USAGE.md)
+
 
 ## Features
 
